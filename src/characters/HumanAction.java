@@ -1,0 +1,8 @@
+package characters;
+
+public enum HumanAction {
+	
+	HUMAN_ATTACK_WITH_WEAPON_1, HUMAN_ATTACK_WITH_WEAPON_2, HUMAN_GUARD,
+	HUMAN_PUNCH, HUMAN_SPECIAL_ACTION, HUMAN_RUN;
+	
+}
